@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>Apostila PHP Progressivo</title>
+  <title>Calculadora de Converção</title>
  </head>
  <body>
 
